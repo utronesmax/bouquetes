@@ -1,2 +1,2 @@
 # bouquetes
-prueba
+Un ejemplo de prueba de mis primeros pasos.
